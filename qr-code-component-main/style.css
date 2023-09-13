@@ -1,0 +1,58 @@
+body{
+    background-color: #a6dced;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center;
+    position: fixed;
+    top: 550px;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+.kutu{
+    background-color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 10px;
+    overflow: hidden;
+    position: fixed;
+    width: 300px;
+    height: 500px;
+    right: 565px;
+}
+
+.qrİmage{
+    border-style: none;
+    position: absolute;
+    height: 270px;
+    width: 275px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#qrKod{
+    position: absolute;
+    height: 270px;
+    width: 275px;
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 10px;
+}
+
+.açıklama{
+    border-style: none;
+    text-align: center;
+    position: fixed;
+    height: 200px;
+    width: 275px;
+    margin-left: 10px;
+    margin-top: 290px;
+}
+
+#soluk_açıklama{
+    opacity: 0.4;
+}
